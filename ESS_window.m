@@ -1,3 +1,4 @@
+%Clear workspace
 clear all 
 close all
 clc
